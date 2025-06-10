@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "9029daca-b2cd-482d-a71d-fc9b8ce48c43")
 	(paper "A4")
+	(title_block
+		(title "ESPHome AC Monitor")
+		(date "2025-02-11")
+		(rev "A")
+		(company "Freeport 7")
+		(comment 1 "DRAWM  BY: AE")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
